@@ -53,3 +53,11 @@ If you want to view the training progress and visualize metrics like accuracy an
 tensorboard --logdir="DAY - 4 ANN project/logs/fit"
 ```
 Visit http://localhost:6006 in your browser to view TensorBoard logs.
+
+## Deployed Streamlit App
+
+The Streamlit app is deployed on **Streamlit Cloud** and can be accessed at the following URL:
+
+[Customer Churn Prediction - Streamlit App](https://ann-classification-churn-c4zemugutcgcheqygad54i.streamlit.app/)
+
+You can use this deployed app to predict customer churn by providing the required input features directly on the web.
